@@ -1,0 +1,19 @@
+# DATE_TIME|MESSAGE
+24/09/2026 11:15|Sneha Kulkarni borrowed 2 × Function Generator
+25/09/2026 10:15|Priya Patil borrowed Digital Multimeter
+26/09/2026 13:15|Vikram Rao borrowed HC-SR04 Ultrasonic Sensor
+27/09/2026 12:15|Aditi Nair borrowed ESP32 Dev Board
+28/09/2026 14:15|Amit Shah was issued 10 × 1kΩ Resistor
+30/09/2026 11:15|Karan Mehta borrowed 16x2 LCD Display
+01/10/2026 14:40|Priya Patil returned Digital Multimeter
+01/10/2026 17:40|Vikram Rao returned HC-SR04 Ultrasonic Sensor
+02/10/2026 12:15|Rohan Deshmukh borrowed 4 × IC 555 Timer
+03/10/2026 15:15|Ishaan Kapoor borrowed 2 × LM358 Op-Amp
+04/10/2026 10:15|Rahul Sharma borrowed Arduino UNO
+04/10/2026 15:40|Karan Mehta returned 16x2 LCD Display
+05/10/2026 15:15|Neha Joshi borrowed 2 × Breadboard (830 points)
+05/10/2026 16:15|Pooja Iyer borrowed 2 × 5V Relay Module
+05/10/2026 16:40|Rohan Deshmukh returned 4 × IC 555 Timer
+05/10/2026 17:15|Siddharth Pawar was issued 6 × LED 5 mm Red
+07/10/2026 00:30|Aditi Nair returned ESP32 Dev Board
+07/10/2026 00:31|Sneha Kulkarni returned 2 × Function Generator

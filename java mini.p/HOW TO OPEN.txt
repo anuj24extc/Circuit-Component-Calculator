@@ -1,0 +1,32 @@
+LABSTOCK - Electronics Lab Component Borrowing & Inventory System
+=================================================================
+
+1. EXTRACT THE ZIP FIRST
+   Right-click LabStock.zip > Extract All. Don't run it from inside the zip.
+
+2. MAKE SURE JAVA IS INSTALLED (Java 8 or newer)
+   Open Command Prompt and type:   java -version
+   If it says "not recognized", install Java from https://adoptium.net
+   (pick the latest LTS, Windows .msi installer).
+
+3. RUN THE APP
+   Double-click  start.bat
+   (or double-click LabStock.jar, or run:  java -jar LabStock.jar)
+
+   The first time it starts, it creates a "data" folder with 68 sample
+   items and some sample loans. Delete that folder to reset everything.
+
+   Things to try:
+   - Borrow page: type "555" or "sensor" in the Component box.
+   - Borrow page: type roll number EX-2131 to see the overdue-loan block.
+   - Pick a resistor: it is a consumable, so it is "issued", not lent.
+
+4. OPEN THE CODE (optional)
+   IntelliJ IDEA:  File > Open > select the LabStock folder.
+                   Open src/labstock/Main.java and click the green Run arrow.
+   Eclipse:        File > Import > Existing Projects into Workspace > LabStock folder.
+   VS Code:        Install "Extension Pack for Java", open the folder, run Main.java.
+
+   run-tests.bat runs the 55 automatic tests (needs a JDK, not just a JRE).
+
+   Full explanation of the project and viva questions: docs/PROJECT_DOCUMENTATION.md

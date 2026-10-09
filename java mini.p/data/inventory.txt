@@ -1,0 +1,69 @@
+# TYPE|ID|NAME|CATEGORY|TOTAL|AVAILABLE|MIN_STOCK
+EQUIPMENT|E001|Arduino UNO|Development Board|5|4|2
+EQUIPMENT|E002|Arduino Nano|Development Board|4|4|2
+EQUIPMENT|E003|Digital Multimeter|Test Equipment|4|4|2
+EQUIPMENT|E004|Function Generator|Test Equipment|3|3|2
+EQUIPMENT|E005|Digital Oscilloscope|Test Equipment|2|2|1
+EQUIPMENT|E006|DC Power Supply|Test Equipment|3|3|1
+EQUIPMENT|E007|ESP32 Dev Board|Development Board|4|4|2
+EQUIPMENT|E008|NodeMCU ESP8266|Development Board|5|5|2
+EQUIPMENT|E009|Raspberry Pi 4 Model B|Development Board|2|2|1
+EQUIPMENT|E010|8051 Microcontroller Kit|Development Board|3|3|1
+EQUIPMENT|E011|Digital IC Trainer Kit|Test Equipment|4|4|2
+EQUIPMENT|E012|LCR Meter|Test Equipment|1|1|1
+EQUIPMENT|E013|Logic Analyzer (8 ch)|Test Equipment|2|2|1
+EQUIPMENT|E014|Soldering Station|Tool|4|4|2
+EQUIPMENT|E015|Wire Stripper|Tool|5|5|2
+CONSUMABLE|C001|1kΩ Resistor|Resistor|40|40|15
+CONSUMABLE|C002|10kΩ Resistor|Resistor|40|40|15
+CONSUMABLE|C003|220Ω Resistor|Resistor|50|50|15
+CONSUMABLE|C004|330Ω Resistor|Resistor|40|40|10
+CONSUMABLE|C005|4.7kΩ Resistor|Resistor|40|40|10
+CONSUMABLE|C006|100kΩ Resistor|Resistor|30|30|10
+COMPONENT|C007|10kΩ Potentiometer|Resistor|12|12|4
+CONSUMABLE|C008|100nF Ceramic Capacitor|Capacitor|30|30|10
+CONSUMABLE|C009|22pF Ceramic Capacitor|Capacitor|20|20|6
+CONSUMABLE|C010|10µF Electrolytic Capacitor|Capacitor|20|20|5
+CONSUMABLE|C011|100µF Electrolytic Capacitor|Capacitor|15|15|5
+CONSUMABLE|C012|1000µF Electrolytic Capacitor|Capacitor|8|8|3
+COMPONENT|C013|IC 555 Timer|IC|15|15|5
+COMPONENT|C014|LM358 Op-Amp|IC|4|2|5
+COMPONENT|C015|LM741 Op-Amp|IC|10|10|4
+COMPONENT|C016|7805 Voltage Regulator|IC|12|12|4
+COMPONENT|C017|7408 Quad AND Gate|IC|10|10|4
+COMPONENT|C018|7400 Quad NAND Gate|IC|10|10|4
+COMPONENT|C019|7474 Dual D Flip-Flop|IC|8|8|3
+COMPONENT|C020|74HC595 Shift Register|IC|6|6|3
+COMPONENT|C021|CD4017 Decade Counter|IC|6|6|3
+COMPONENT|C022|L293D Motor Driver|IC|5|5|2
+CONSUMABLE|C023|BC547 NPN Transistor|Transistor|30|30|10
+CONSUMABLE|C024|BC557 PNP Transistor|Transistor|25|25|10
+CONSUMABLE|C025|2N2222 NPN Transistor|Transistor|20|20|8
+CONSUMABLE|C026|IRF540N MOSFET|Transistor|3|3|4
+CONSUMABLE|C027|1N4007 Rectifier Diode|Diode|25|25|10
+CONSUMABLE|C028|1N4148 Signal Diode|Diode|30|30|10
+CONSUMABLE|C029|5.1V Zener Diode|Diode|15|15|5
+CONSUMABLE|C030|Bridge Rectifier W10M|Diode|6|6|2
+CONSUMABLE|C031|LED 5 mm Red|LED|94|94|20
+CONSUMABLE|C032|LED 5 mm Green|LED|80|80|20
+CONSUMABLE|C033|RGB LED (Common Cathode)|LED|15|15|5
+COMPONENT|C034|7-Segment Display|Display|10|10|4
+COMPONENT|C035|16x2 LCD Display|Display|6|6|2
+COMPONENT|C036|IR Sensor Module|Sensor|6|6|3
+COMPONENT|C037|LM35 Temperature Sensor|Sensor|8|8|3
+COMPONENT|C038|HC-SR04 Ultrasonic Sensor|Sensor|5|5|2
+COMPONENT|C039|DHT11 Humidity Sensor|Sensor|5|5|2
+COMPONENT|C040|LDR Light Sensor|Sensor|20|20|5
+COMPONENT|C041|PIR Motion Sensor|Sensor|4|4|2
+COMPONENT|C042|MQ-2 Gas Sensor|Sensor|3|3|2
+COMPONENT|C043|5V Relay Module|Module|6|4|2
+COMPONENT|C044|HC-05 Bluetooth Module|Module|4|4|2
+COMPONENT|C045|SG90 Servo Motor|Module|6|6|2
+COMPONENT|C046|Piezo Buzzer|Module|15|15|5
+CONSUMABLE|C047|Tactile Push Button|Module|40|40|10
+COMPONENT|C048|Breadboard (830 points)|Prototyping|10|8|3
+CONSUMABLE|C049|Jumper Wires Male-Male|Prototyping|12|12|4
+CONSUMABLE|C050|Jumper Wires Male-Female|Prototyping|10|10|4
+CONSUMABLE|C051|Zero PCB (General Purpose)|Prototyping|15|15|5
+CONSUMABLE|C052|9V Battery|Power|10|10|4
+CONSUMABLE|C053|9V Battery Clip|Power|15|15|5
